@@ -1,0 +1,12 @@
+# Nextjs-lectures
+
+## This repository will contain all my practice projects that I will build using NextJS and deploy them on **vercel**
+## Next.js is a powerful and versatile framework for building full-stack web applications with React
+## I will use Next.js to create various types of projects, such as todo list, weather app, or language translation app, and enjoy the benefits of performance, flexibility, and scalability. Next.js is better than WordPress in many aspects
+
+### 
+Next.js is better than WordPress in many aspects, such as:
+
+Performance: Next.js offers various rendering methods, such as static generation, server-side rendering, and incremental static regeneration, that can improve the performance and SEO of your web pages. Next.js also optimizes the code splitting, bundling, and caching of your app, and provides features such as next/image or next/script to optimize the loading of images and scripts. WordPress, on the other hand, is a traditional CMS that relies on PHP and MySQL, and often suffers from slow loading and poor SEO. WordPress also requires many plugins and themes to extend its functionality, which can add to the bloat and security risks of your site.
+Flexibility: Next.js gives you full control over the front-end and back-end of your app, and allows you to use any data source or API you want. Next.js also supports TypeScript, Sass, and other modern web technologies out of the box, and integrates well with popular libraries and frameworks such as Tailwind CSS, Chakra UI, or Material UI. WordPress, on the other hand, limits you to the PHP and MySQL stack, and often forces you to use its own data structure and API. WordPress also has limited support for modern web technologies, and often requires you to use third-party plugins or themes to achieve the desired look and feel of your site.
+Scalability: Next.js is designed to scale with your app, and provides features such as serverless functions, API routes, and incremental static regeneration to handle dynamic and large-scale data. Next.js also supports deployment to various platforms, such as Vercel, Netlify, or AWS, and provides features such as preview mode, analytics, and environment variables to facilitate the development and deployment process. WordPress, on the other hand, is not built for scalability, and often struggles with high traffic and complex data. WordPress also requires you to manage your own hosting, database, and security, and often requires you to use third-party services or plugins to enhance the development and deployment process.
