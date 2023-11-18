@@ -1,8 +1,8 @@
 # Nextjs-lectures
 
 ## This repository will contain all my practice projects that I will build using NextJS and deploy them on **vercel**
-## Next.js is a powerful and versatile framework for building full-stack web applications with React
-## I will use Next.js to create various types of projects, such as todo list, weather app, or language translation app, and enjoy the benefits of performance, flexibility, and scalability. Next.js is better than WordPress in many aspects
+### Next.js is a powerful and versatile framework for building full-stack web applications with React
+### I will use Next.js to create various types of projects, such as todo list, weather app, or language translation app, and enjoy the benefits of performance, flexibility, and scalability. Next.js is better than WordPress in many aspects
 
 ### 
 Next.js is better than WordPress in many aspects, such as:
